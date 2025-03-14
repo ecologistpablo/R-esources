@@ -34,6 +34,7 @@ _Introduction to Spatial Analysis in R w Dr. C Buelow et al.,_:
 https://cabuelow.quarto.pub/r-for-mapping-and-more/#using-r-for-mapping-and-spatial-data-science
 
 **Statistics**
+
 https://www.statlearning.com/
 
 _Introduction to Generalised Additive Models_:
@@ -55,6 +56,7 @@ _GGEffects - Fitting predictions for mixed models that include multiple interact
 https://strengejacke.github.io/ggeffects/articles/practical_logisticmixedmodel.html
 
 **Animal movement**
+
 _Acoustic Telemetry tutorial w Dr. Y. Niella / Hugo Flavio_:
 https://www.youtube.com/watch?v=IIiKVwAQImc&list=PL8s_ozNEPs87HLqcsneZHhvh16mWlM0sY
 
