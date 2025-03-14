@@ -7,6 +7,11 @@ This repository is a resource dump of websites I find useful for all things rela
 _Learning grammar_:
 https://www.tutorialgateway.org/logical-operators-in-r/
 
+**GITHUB**
+
+_To download and use github with RStudio_
+https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/
+
 
 **General**
 
