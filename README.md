@@ -4,9 +4,6 @@ A repository of resources for those who need it - Un repositorio de recursos par
 _Buenas noches - Soy yo tu amigo_.
 This repository is a resource dump of websites I find useful for all things related to what I do - biological statistics and data wrestling. I believe in open-source coding, sharing knowledge and helping others as I have been helped. So share wide and far for anyone who needs it.
 
-_Learning grammar_:
-https://www.tutorialgateway.org/logical-operators-in-r/
-
 **GITHUB**
 
 _To download and use github with RStudio_
@@ -22,6 +19,10 @@ _The Big Book of R_
 https://r4ds.hadley.nz/ 
 
 Your first step into coding? Try here, each chapter gives you a step-by-step walk-through on the process of learning a new language and becoming comfortable in RStudio. 
+
+_Learning grammar_:
+https://www.tutorialgateway.org/logical-operators-in-r/
+
 
 _Mastering purrr_
 https://www.r-bloggers.com/2024/05/mastering-purrr-from-basic-maps-to-functional-magic-in-r/?utm_source=phpList&utm_medium=email&utm_campaign=R-bloggers-weekly&utm_content=HTML#google_vignette
