@@ -24,13 +24,13 @@ _Learning grammar_:
 https://www.tutorialgateway.org/logical-operators-in-r/
 
 
-_Mastering purrr_
+_Mastering purrr_:
 https://www.r-bloggers.com/2024/05/mastering-purrr-from-basic-maps-to-functional-magic-in-r/?utm_source=phpList&utm_medium=email&utm_campaign=R-bloggers-weekly&utm_content=HTML#google_vignette
 
-_Learning to make apps (shiny)_
+_Learning to make apps (shiny)_:
 https://mastering-shiny.org/
 
-_Spatial statistics_
+_Spatial statistics_:
 https://www.paulamoraga.com/book-spatial/
 
 _A website created by Prof. Chris Brown with a lot of data wrangling modelling and other resources freely available_:
@@ -38,6 +38,20 @@ https://www.seascapemodels.org/code.html
 
 _Introduction to Spatial Analysis in R w Dr. C Buelow et al.,_:
 https://cabuelow.quarto.pub/r-for-mapping-and-more/#using-r-for-mapping-and-spatial-data-science
+
+_Machine learning tools for spatial packages_:
+https://loek-rs.github.io/FOSSGIS2025-examples/
+
+**Artifical Intelligence**
+
+_AI assistance in creating Shiny websites_:
+https://shiny.posit.co/blog/posts/shiny-assistant/
+
+_Using co-pilot while coding in RStudio_:
+https://docs.posit.co/ide/user/ide/guide/tools/copilot.html
+
+_AI powered coding with LLM and language selection_:
+cursor.com
 
 **Statistics**
 
@@ -55,7 +69,7 @@ https://noamross.github.io/gams-in-r-course/chapter2
 _Mixel models with - Ben Bolker_:
 https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html
 
-_Bayesian statistics (dark arts)_:
+_Bayesian statistics_:
 https://xcelab.net/rm/
 
 _GGEffects - Fitting predictions for mixed models that include multiple interaction terms and splines_:
