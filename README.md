@@ -42,6 +42,9 @@ https://cabuelow.quarto.pub/r-for-mapping-and-more/#using-r-for-mapping-and-spat
 _Machine learning tools for spatial packages_:
 https://loek-rs.github.io/FOSSGIS2025-examples/
 
+_Introduction to analysing Global Fishing Watch Data_:
+https://jflowernet.github.io/gfwr-intro/
+
 **Artifical Intelligence**
 
 _AI assistance in creating Shiny websites_:
