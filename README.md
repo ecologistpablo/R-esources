@@ -23,12 +23,14 @@ Your first step into coding? Try here, each chapter gives you a step-by-step wal
 _Learning grammar_:
 https://www.tutorialgateway.org/logical-operators-in-r/
 
-
 _Mastering purrr_:
 https://www.r-bloggers.com/2024/05/mastering-purrr-from-basic-maps-to-functional-magic-in-r/?utm_source=phpList&utm_medium=email&utm_campaign=R-bloggers-weekly&utm_content=HTML#google_vignette
 
 _Learning to make apps (shiny)_:
 https://mastering-shiny.org/
+
+_Learning to use quarto _:
+https://jessicabolin.quarto.pub/intro_quarto/
 
 _Spatial statistics_:
 https://www.paulamoraga.com/book-spatial/
