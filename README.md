@@ -47,6 +47,10 @@ https://loek-rs.github.io/FOSSGIS2025-examples/
 _Introduction to analysing Global Fishing Watch Data_:
 https://jflowernet.github.io/gfwr-intro/
 
+_The opportunistic database of biodiversity databases_:
+https://docs.google.com/spreadsheets/u/0/d/1qsK1MNLsi-QjK9VptgeV2HfrB7mWUVxjZdaj_P9Qs-Y/htmlview?urp=gmail_link#
+
+
 **Artifical Intelligence**
 
 _AI assistance in creating Shiny websites_:
