@@ -51,6 +51,9 @@ _The opportunistic database of biodiversity databases_:
 https://docs.google.com/spreadsheets/u/0/d/1qsK1MNLsi-QjK9VptgeV2HfrB7mWUVxjZdaj_P9Qs-Y/htmlview?urp=gmail_link#
 
 
+_Kylie Scales lab code_:
+https://jessicabolin.github.io/scaleslabmanualtest/
+
 **Artifical Intelligence**
 
 _AI assistance in creating Shiny websites_:
