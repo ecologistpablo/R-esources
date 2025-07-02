@@ -18,6 +18,9 @@ https://www.bigbookofr.com/chapters/espa%C3%B1ol
 _The Big Book of R_
 https://r4ds.hadley.nz/ 
 
+_The 10 commandments of coding by Alice Pidd_:
+https://alicepidd.quarto.pub/10_r_commandments/
+
 Your first step into coding? Try here, each chapter gives you a step-by-step walk-through on the process of learning a new language and becoming comfortable in RStudio. 
 
 _Learning grammar_:
